@@ -10,7 +10,7 @@
         <junit.version>4.12</junit.version>
         <servlet.version>3.0.1</servlet.version>
         <log4j2.version>2.7</log4j2.version>
-        <spring.version>4.3.7.RELEASE</spring.version>
+        <spring.version>4.3.29.RELEASE</spring.version>
         <mybaitsplus.version>2.0.5</mybaitsplus.version>
         <mysql.version>5.1.40</mysql.version>
         <druid.version>1.0.28</druid.version>
